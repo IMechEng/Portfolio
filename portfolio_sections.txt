@@ -1,0 +1,223 @@
+
+<!-- High Security Pocket Door -->
+<article class="col-sm-4 isotopeItem hspd">
+  <div class="portfolio-item"> <img src="images\projects\1\highsecuritypocketdoor1.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\1\highsecuritypocketdoor1.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem hspd">
+  <div class="portfolio-item"> <img src="images\projects\1\highsecuritypocketdoor2.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\1\highsecuritypocketdoor2.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem hspd">
+  <div class="portfolio-item"> <img src="images\projects\1\highsecuritypocketdoor3.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\1\highsecuritypocketdoor3.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem hspd">
+  <div class="portfolio-item"> <img src="images\projects\1\highsecuritypocketdoor4.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\1\highsecuritypocketdoor4.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<!-- Security Bookcase -->
+<article class="col-sm-4 isotopeItem sbc">
+  <div class="portfolio-item"> <img src="images\projects\2\securitybookcase1.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\2\securitybookcase1.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem sbc">
+  <div class="portfolio-item"> <img src="images\projects\2\securitybookcase2.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\2\securitybookcase2.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem sbc">
+  <div class="portfolio-item"> <img src="images\projects\2\securitybookcase3.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\2\securitybookcase3.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem sbc">
+  <div class="portfolio-item"> <img src="images\projects\2\securitybookcase4.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\2\securitybookcase4.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem sbc">
+  <div class="portfolio-item"> <img src="images\projects\2\securitybookcase5.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\2\securitybookcase5.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<!-- Double Door -->
+<article class="col-sm-4 isotopeItem dd">
+  <div class="portfolio-item"> <img src="images\projects\3\doubledoor1.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\3\doubledoor1.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem dd">
+  <div class="portfolio-item"> <img src="images\projects\3\doubledoor2.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\3\doubledoor2.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem dd">
+  <div class="portfolio-item"> <img src="images\projects\3\doubledoor3.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\3\doubledoor3.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem dd">
+  <div class="portfolio-item"> <img src="images\projects\3\doubledoor4.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\3\doubledoor4.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<!-- Hidden Stairs with Trap Door -->
+<article class="col-sm-4 isotopeItem stair">
+  <div class="portfolio-item"> <img src="images\projects\4\stair1.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\4\stair1.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem stair">
+  <div class="portfolio-item"> <img src="images\projects\4\stair2.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\4\stair2.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem stair">
+  <div class="portfolio-item"> <img src="images\projects\4\stair3.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\4\stair3.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem stair">
+  <div class="portfolio-item"> <img src="images\projects\4\stair4.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\4\stair4.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem stair">
+  <div class="portfolio-item"> <img src="images\projects\4\stair5.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\4\stair5.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<!-- Bi-directional Pocket Door -->
+<article class="col-sm-4 isotopeItem vandoor">
+  <div class="portfolio-item"> <img src="images\projects\5\vandoor1.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\5\vandoor1.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem vandoor">
+  <div class="portfolio-item"> <img src="images\projects\5\vandoor2.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\5\vandoor2.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem vandoor">
+  <div class="portfolio-item"> <img src="images\projects\5\vandoor3.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\5\vandoor3.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem vandoor">
+  <div class="portfolio-item"> <img src="images\projects\5\vandoor4.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\5\vandoor4.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<!-- Bookcase Door -->
+<article class="col-sm-4 isotopeItem gbc">
+  <div class="portfolio-item"> <img src="images\projects\6\genericbookcase1.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\6\genericbookcase1.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
+<article class="col-sm-4 isotopeItem gbc">
+  <div class="portfolio-item"> <img src="images\projects\6\genericbookcase2.JPG" alt="" />
+  <div class="portfolio-desc align-center">
+    <div class="folio-info"> <a href="images\projects\6\genericbookcase2.JPG" class="fancybox">
+    <h6>This is a really cool door that does some door stuff. I really like doors a lot because I'm Ian.</h6>
+    <i class="fa fa-plus-square-o fa-2x"></i></a> </div>
+  </div>
+  </div>
+</article>
