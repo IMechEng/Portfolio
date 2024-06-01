@@ -45,6 +45,16 @@ if __name__ == "__main__":
             "class": "gbc",
             "project_name": "Bookcase Door",
         },
+        "7": {
+            "description": "This fully motorized modern fireplace swings silently open when triggered. The door features a fully-functional decorative fireplace, concrete paneling, and decorative sheet metal.",
+            "class": "fireplace",
+            "project_name": "Modern Fireplace",
+        },
+        "8": {
+            "description": "This variation on a typical bookcase door has a motor-driven door slide laterally to open. I designed this system to use a cantilevered beam hidden behind the top crown that the door rides on with no visible hardware on the floor. Due to the weight of the wooden sliding bookcase, I calculated loads, resultant forces, and stresses to ensure perfect functionality and structural integrity.",
+            "class": "slider",
+            "project_name": "Sliding Bookcase",
+        },
     }
 
     out_file = "./portfolio_sections.txt"
