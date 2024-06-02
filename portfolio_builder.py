@@ -1,3 +1,11 @@
+"""
+This script builds out portfolio sections and images automagically. It injects these into index.html.
+To Use:
+1. Modify INFO_DICT with any new folders, descriptions, classes, project_names
+2. Run the script
+3. Confirm nothing broke by looking at index.html
+"""
+
 from pathlib import Path
 
 
