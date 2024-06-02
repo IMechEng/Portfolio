@@ -1,4 +1,6 @@
 """
+Built with Python version 3.10.0
+
 This script builds out portfolio sections and images automagically. It injects these into index.html.
 To Use:
 1. Modify INFO_DICT with any new folders, descriptions, classes, project_names
