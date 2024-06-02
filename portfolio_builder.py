@@ -8,8 +8,6 @@ To Use:
 3. Confirm nothing broke by looking at index.html
 """
 
-#TODO Fix portfolio link. Doesn't work with multiple portfolio sections
-
 from pathlib import Path
 
 
