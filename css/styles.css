@@ -789,8 +789,9 @@ a.current {
 	text-decoration: none;
 }
 .portfolio-item .portfolio-desc .folio-info {
-	top: -20px;
-	padding: 30px;
+	top: -40px;
+	padding: 10px;
+	padding-top: 0px;
 	height: 0;
 	opacity: 0;
 	position: relative;
@@ -799,7 +800,7 @@ a.current {
 	height: 100%;
 	opacity: 1;
 	transition: all 500ms ease-in-out 0s;
-	top: 5px;
+	top: -30px;
 }
 .portfolio-item .portfolio-desc .folio-info h5 {
 	text-transform: uppercase;
