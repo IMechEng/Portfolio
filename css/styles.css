@@ -814,7 +814,6 @@ a.current {
 .portfolio-item:hover .folio-info {
 	height: 100%;
 	opacity: 1;
-	transition: all 500ms ease-in-out 0s;
 	top: -30px;
 }
 /* Custom scrollbar styles for WebKit-based browsers */
