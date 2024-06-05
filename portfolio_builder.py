@@ -58,6 +58,17 @@ INFO_DICT = {
             },
         },
     },
+    "school": {
+        "portfolio_name": "Academic Projects",
+        "portfolio_description": """Here are a couple of the many projects I worked on while at ASU. Apart from the projects below, I had many unique opportunities to work with professors on projects relating to heat transfer, aerodynamics, FEA, CFB, and much more. Being a member of Barrett, the Honors College, I was also able to publish an undergraduate thesis on mechanical clock design that can be found <a href="https://keep.lib.asu.edu/items/192074">here</a>""",
+        "portfolio_projects": {
+            "NG": {
+                "description": "For nearly a year, I worked with the SSST Coyote Target Vehicle team at Northrop Grumman to design and construct a mass property measurement device to measure mass, CG, MOI, and POI of launch vehicle components. This device uses a combination of load cells, a rotary encoder, and a torsional spring used to induce oscillatory motion. This project gave me great experience in the defense industry and in launch vehicles.",
+                "class": "ng",
+                "project_name": "Launch Vehicle Mass Property Measurement Device",
+            },
+        },
+    },
 }
 
 
