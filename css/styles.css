@@ -718,6 +718,9 @@ margin: 10px 0 !important;
 #portfolio img {
 	width: 100%;
 }
+#portfolio iframe {
+	width: 100%;
+}
 #portfolio article p {
 	margin-bottom: 1.45em;
 	/*set next row on the baseline*/;
@@ -745,6 +748,10 @@ a.current {
 .portfolio-items article img {
 	width: 100%;
 }
+.portfolio-items article iframe {
+	width: 100%;
+	height: 300px;
+}
 .portfolio-item {
 	display: block;
 	position: relative;
@@ -754,6 +761,13 @@ a.current {
 	transition: all 0.2s ease-in-out;
 }
 .portfolio-item img {
+	-webkit-transition: all 300ms linear;
+	-moz-transition: all 300ms linear;
+	-o-transition: all 300ms linear;
+	-ms-transition: all 300ms linear;
+	transition: all 300ms linear;
+}
+.portfolio-item iframe {
 	-webkit-transition: all 300ms linear;
 	-moz-transition: all 300ms linear;
 	-o-transition: all 300ms linear;
