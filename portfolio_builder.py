@@ -74,6 +74,7 @@ INFO_DICT = {
                 "description": "For nearly a year, I worked with the SSST Coyote Target Vehicle team at Northrop Grumman to design and construct a mass property measurement device to measure mass, CG, MOI, and POI of launch vehicle components. This device uses a combination of load cells, a rotary encoder, and a torsional spring used to induce oscillatory motion. This project gave me great experience in the defense industry and in launch vehicles.",
                 "class": "ng",
                 "project_name": "Launch Vehicle Mass Property Measurement Device",
+                "videos": [],
             },
         },
     },
