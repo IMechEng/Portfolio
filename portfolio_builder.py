@@ -3,7 +3,7 @@ Built with Python version 3.10.0
 
 This script builds out portfolio sections and images automagically. It injects these into index.html.
 To Use:
-1. Modify INFO_DICT with any new folders, descriptions, classes, project_names
+1. Modify INFO_DICT with any new sections, folders, descriptions, classes, project_names, videos, etc
 2. Run the script
 3. Confirm nothing broke by looking at index.html
 """
@@ -121,8 +121,8 @@ def generate_html(info_dict: dict, image_directory: Path) -> str:
             + """\n      <nav id="filter" class="col-md-12">"""
             + """\n        <ul>"""
         )
-        html_section_header = f"""\n          <li><a href="#" class="current btn-theme btn-small" data-filter="#{key} > *{isotope_filter}">All</a></li>"""
-        html_section = (
+        html_portfolio_section_nav = f"""\n          <li><a href="#" class="current btn-theme btn-small" data-filter="#{key} > *{isotope_filter}">All</a></li>"""
+        html_portfolio_section_body = (
             """\n      <div class="col-md-12">"""
             + """\n        <div class="row">"""
             + f"""\n          <div class="portfolio-items isotopeWrapper clearfix" id="{key}">"""
@@ -133,11 +133,11 @@ def generate_html(info_dict: dict, image_directory: Path) -> str:
             if item.is_dir():
                 if item.name in value["portfolio_projects"].keys():
                     project = value["portfolio_projects"][item.name]
-                    html_section_header += f"""\n          <li><a href="#" class="btn-theme btn-small" data-filter="#{key} > .{project["class"]}{isotope_filter}">{project["project_name"]}</a></li>"""
-                    html_section += f"""\n            <!-- {project["project_name"]} -->"""
+                    html_portfolio_section_nav += f"""\n          <li><a href="#" class="btn-theme btn-small" data-filter="#{key} > .{project["class"]}{isotope_filter}">{project["project_name"]}</a></li>"""
+                    html_portfolio_section_body += f"""\n            <!-- {project["project_name"]} -->"""
                     for file in item.rglob("*"):
                         if file.is_file():
-                            html_section += make_image_article(
+                            html_portfolio_section_body += make_image_article(
                                 image_link=str(file),
                                 project_name=project["project_name"],
                                 project_description=project["description"],
@@ -145,14 +145,14 @@ def generate_html(info_dict: dict, image_directory: Path) -> str:
                             )
                     if len(project["videos"]) > 0:
                         for video in project["videos"]:
-                            html_section += make_video_article(video_link=video, project_class=project["class"])
-        html_section_header += """\n        </ul>"""
-        html_section_header += """\n      </nav>"""
-        html_section += """\n          </div>"""
-        html_section += """\n        </div>"""
-        html_section += """\n      </div>"""
-        html_portfolio_section += html_section_header
-        html_portfolio_section += html_section
+                            html_portfolio_section_body += make_video_article(video_link=video, project_class=project["class"])
+        html_portfolio_section_nav += """\n        </ul>"""
+        html_portfolio_section_nav += """\n      </nav>"""
+        html_portfolio_section_body += """\n          </div>"""
+        html_portfolio_section_body += """\n        </div>"""
+        html_portfolio_section_body += """\n      </div>"""
+        html_portfolio_section += html_portfolio_section_nav
+        html_portfolio_section += html_portfolio_section_body
         html_portfolio_section += """\n    </div>"""
         html_portfolio_section += """\n  </div>"""
         html_portfolio_section += """\n</section>"""
