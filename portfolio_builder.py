@@ -44,7 +44,7 @@ INFO_DICT = {
                 "description": "This is a fully-motorized pocket door that initially slides at a 45 degree angle allowing for perfect concealment in wood paneling.",
                 "class": "vandoor",
                 "project_name": "Bi-directional Pocket Door",
-                "videos": [],
+                "videos": ["https://youtube.com/embed/OCdSjAvYaoA"],
             },
             "6": {
                 "description": "Bookcases are one of the most popular secret doors. I have designed countless bookcases similar to the one shown.",
@@ -62,7 +62,7 @@ INFO_DICT = {
                 "description": "This variation on a typical bookcase door has a motor-driven door slide laterally to open. I designed this system to use a cantilevered beam hidden behind the top crown that the door rides on with no visible hardware on the floor. Due to the weight of the wooden sliding bookcase, I calculated loads, resultant forces, and stresses to ensure perfect functionality and structural integrity.",
                 "class": "slider",
                 "project_name": "Sliding Bookcase",
-                "videos": ["https://youtube.com/embed/OCdSjAvYaoA", "https://youtube.com/embed/JsgHOSMLiQs", "https://youtube.com/embed/-frKyuxJHjE"],
+                "videos": ["https://youtube.com/embed/JsgHOSMLiQs", "https://youtube.com/embed/-frKyuxJHjE"],
             },
         },
     },
