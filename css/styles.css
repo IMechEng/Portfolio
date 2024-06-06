@@ -1189,3 +1189,6 @@ nav#filter li {
 	user-select: none;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.header-shadow {
+	text-shadow: 0px 0px 5px black;
+}
