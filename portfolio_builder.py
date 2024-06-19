@@ -14,7 +14,7 @@ from pathlib import Path
 INFO_DICT = {
     "work": {
         "portfolio_name": "Work Projects",
-        "portfolio_description": """Here you'll see some cool things I've had the fortune to work on at my job, school, and on my free time. I've been designing secret doors for 2 years now and some of the things we build still blow my mind! Check out the <a href="https://hiddenpassageway.com/">Creative Home Engineering</a> site for more.""",
+        "portfolio_description": """I've been designing secret doors and ultra high security doors for over 2 years now and have received the nickname "Super Grandmaster CAD Modeler" at work. Having worked for many high profile clients, including billionaires, I have lead many extravagant and unique projects. Check out the <a href="https://hiddenpassageway.com/">Creative Home Engineering</a> site for more projects that will blow your mind!""",
         "portfolio_projects": {
             "1": {
                 "description": "This is a fully-motorized high security bullet proof pocket door with electromagnetic locking and shear pins. This project required a high strength track and trolley system to support the weight of thick steel armor plating. The motor driving the door had to be perfectly calibrated to achieve smooth, quiet operation.",
